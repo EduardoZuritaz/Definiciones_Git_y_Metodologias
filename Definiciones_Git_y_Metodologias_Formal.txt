@@ -1,0 +1,156 @@
+DEFINICIONES
+
+Software.-
+El término software es una palabra inglesa tomada de otro idioma y hace referencia a un componente intangible.
+El software se considera un equipo informático lógico e intangible.
+En otras palabras, el concepto de software abarca todas las aplicaciones informáticas,
+Este software se puede utilizar para gestionar datos, automatizar procesos y crear aplicaciones o productos de uno mismo.
+
+Ing.Software.-
+La ingeniería de software es una disciplina científica que implica el uso de estructuras, herramientas y técnicas para construir programas informáticos.
+Esta disciplina va más allá de las actividades de programación, que es un pilar fundamental a la hora de crear una aplicación.
+Los ingenieros de software son responsables de toda la gestión del proyecto para que pueda desarrollarse en un plazo determinado y dentro del presupuesto previsto.
+
+Git.-
+Git es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para todo desde pequeños proyectos hasta proyectos muy grandes con rapidez y eficiencia.
+
+Programación.-
+Programar es el acto de programar, es decir, organizar una serie de pasos que se deben seguir para hacer algo.
+Además, en el campo de la informática, la programación es una parte importante de la relación entre ordenadores y usuarios.
+
+Lenguaje de Programación.-
+En informática, un programa destinado a construir otros programas se denomina lenguaje de programación.
+El nombre proviene del hecho de que es un lenguaje formal diseñado para organizar algoritmos y procesos lógicos que luego son ejecutados por una computadora o sistema informático.
+Los lenguajes de programación permiten a las computadoras procesar cantidades grandes y complejas de información de manera rápida y eficiente.
+
+Compilador.-
+La compilación es el proceso de convertir un programa de computadora escrito en un idioma en un conjunto de instrucciones en un formato o idioma diferente.
+Un compilador generalmente primero genera lenguaje ensamblador y luego lo traduce al lenguaje de máquina.
+Una utilidad conocida como "enlazador" combina todos los módulos de lenguaje de máquina necesarios en un programa ejecutable que se puede ejecutar en una computadora.
+
+Ciclo de Desarrollo.-
+El ciclo de vida del desarrollo de software incluye el desarrollo de nuevo software desde las etapas iniciales de planificación.
+para su implementación y mantenimiento a largo plazo.
+La metodología del ciclo de vida del desarrollo de software (SDLC) ofrece un marco de gestión sistemático.
+con resultados específicos en cada etapa del proceso de desarrollo de software.
+Los detalles del proceso SDLC varían según las diferentes computadoras. Sin embargo, a continuación se explican algunas fases comunes del SDLC.
+
+Planificación.-
+La fase de planificación generalmente incluye tareas como análisis de costo-beneficio, programación, estimación y asignación de recursos.
+El equipo de desarrollo reúne los requisitos de diversas partes interesadas, como clientes, expertos internos y externos y la dirección para crear documentos de especificaciones con requisitos de software.
+El documento establece especificaciones y define objetivos generales que ayudan a planificar el proyecto.
+El equipo estima los costos, determina el cronograma y tiene un plan detallado para lograr el objetivo.
+
+Diseño.-
+Durante la fase de diseño, los ingenieros de software analizan los requisitos y determinan la mejor solución para crear el software.
+Por ejemplo, pueden considerar integrar modificaciones existentes, seleccionar tecnologías e identificar herramientas de desarrollo. 
+Determinarán la mejor manera de integrar el nuevo software en cualquier infraestructura de uno mismo existente de la organización.
+
+Implementación.-
+Durante la fase de implementación, el equipo de desarrollo codifica el producto.
+Realice análisis de requisitos para identificar tareas de codificación más pequeñas que se pueden realizar diariamente para lograr el resultado final.
+
+Pruebas.-
+El equipo de desarrollo utiliza una combinación de pruebas manuales y automatizadas para comprobar si hay errores de software.
+El análisis de calidad implica probar el software en busca de errores y verificar que cumpla con los requisitos del cliente.
+Debido a que muchos equipos prueban el código que escriben inmediatamente, la fase de prueba suele transcurrir paralela a la fase de desarrollo.
+
+Despliegue.-
+Cuando los equipos desarrollan software, lo codifican y lo prueban en una copia diferente a la que tienen acceso los usuarios.
+El software utilizado por los clientes se denomina producción, mientras que otras copias residen en entornos de compilación o prueba.
+Un entorno de desarrollo y producción independiente garantiza que los clientes puedan seguir utilizando el software, incluso si ha sido cambiado o actualizado.
+La fase de implementación incluye varias tareas como embalaje, Configuración e instalación del entorno.
+
+Mantenimiento.-
+Durante la fase de mantenimiento, el equipo corrige errores, resuelve problemas de los clientes y gestiona cambios de software, entre otras cosas, además, el equipo supervisa el rendimiento general del sistema, la seguridad y la experiencia del usuario para identificar nuevas formas de mejorar el software existente.
+
+Documento de Especificacion
+En el documento de Especificación de requisitos de software (SRS)
+Enumerando los requisitos, expectativas, diseño y estándares para proyectos futuros.
+
+QA
+QA es una abreviatura de control de calidad en inglés. Su objetivo principal es probar soluciones técnicas y asegurar su buena funcionalidad.
+Se realizan procedimientos de prueba específicos para determinar dónde ocurrió el error y sugerir posibles soluciones.
+
+Testing
+La prueba de software es una actividad o paso en el proceso de producción de software.
+Software llamado Verificación y Validación, a menudo abreviado como V&V. V&V es un término colectivo para actividades de verificación que proporcionan.
+El software cumple con sus especificaciones y satisface las necesidades de los usuarios.
+
+Debugging
+También llamado depuración en español, es el nombre del proceso de búsqueda y corrección de errores.
+Se puede enviar software y hardware.
+El término fue parte del proceso de desarrollo desde el principio, argumentan algunos.
+Fue creado incluso antes del desarrollo de la propia web.
+
+Metodologias de Proyectos
+Una metodología de proyecto es un conjunto estructurado de procesos, métodos y herramientas.
+Utilizado para la planificación, ejecución y control del desarrollo de proyectos de principio a fin.
+
+Metodologia en Cascada
+El método en cascada es un método de gestión de proyectos que sigue un proceso lineal y secuencial.
+Este enfoque es popular en el desarrollo de software y se denomina ciclo de vida de desarrollo de software (SDLC). 
+Sin embargo, el desarrollo de productos también sigue este modelo.
+El término "cascada" se refiere a un proceso en un proyecto donde cada paso fluye hacia el siguiente. Incluye fases detalladas de planificación, ejecución, prueba y mantenimiento.
+Cada fase debe completarse antes de pasar a la siguiente, lo que deja poca o ninguna flexibilidad para realizar cambios durante el proyecto.
+
+Metodologias Agiles
+Los métodos ágiles son un conjunto de técnicas utilizadas en ciclos de trabajo cortos para hacer más eficiente el proceso de entrega del proyecto.
+Por lo tanto, se puede avanzar a medida que se completa cada etapa sin esperar hasta el final del proyecto.
+
+Iteración
+La iteración es el proceso coordinado de repetir una serie de pasos o tareas con el objetivo de mejorar un producto,  servicio o proyecto a lo largo del tiempo.
+En este caso, la repetición de un programa informático para corregir errores y perfeccionar cada uno de sus elementos.
+
+BIBLIOGRAFIA
+Software
+https://definicion.de/software/
+https://concepto.de/software/
+https://www.arimetrics.com/glosario-digital/software
+
+Ing,Software
+https://definicion.de/ingenieria-de-software/
+https://mexico.unir.net/ingenieria/noticias/ingenieria-de-software-que-es-objetivos/
+
+Git
+https://git-scm.com/
+https://www.atlassian.com/es/git/tutorials/what-is-git
+
+Programación
+https://concepto.de/programacion/
+
+Lenguaje de Programación
+https://concepto.de/lenguaje-de-programacion/
+https://openwebinars.net/blog/que-es-un-lenguaje-de-programacion/
+
+Compilador
+https://developer.mozilla.org/es/docs/Glossary/Compile
+https://www.europeanvalley.es/noticias/que-es-un-compilador-en-programacion/
+
+Ciclo de Desarrollo
+https://aws.amazon.com/es/what-is/sdlc/
+https://www.codingdojo.la/2023/06/16/guia-del-ciclo-de-vida-del-desarrollo-de-software/
+
+Documento de Especificación
+https://asana.com/es/resources/software-requirement-document-template
+
+QA
+https://www.hiberus.com/crecemos-contigo/que-es-un-analista-qa/
+
+Testing
+https://www.fceia.unr.edu.ar/ingsoft/testing-intro-a.pdf
+
+Debugging
+https://www.hostgator.mx/blog/que-es-debug-en-programacion/
+
+Metodologías de Proyectos
+https://www.doofinder.com/es/blog/metodologia-de-un-proyecto
+
+Metodología en Cascada
+https://safetyculture.com/es/temas/metodologia-en-cascada/
+
+Metodologias Ágiles
+https://www.zendesk.com.mx/blog/metodologia-agil-que-es/
+
+Iteración
+https://www.universitatcarlemany.com/actualidad/blog/que-es-la-iteracion/

@@ -1,0 +1,58 @@
+DEFINICIONES
+
+Software.-
+Es todo programa dentro de una PC, como una aplicacion para la computadora, un movil o un navegador de internet.
+
+Ing. Software.-
+Es un ciencia especializada en crear programas de computadora o cualquier dispositivo inteligente.
+
+Git.-
+Es una herramienta con la que se puede visualizar y analizar modificaciones hechas a un archivo.
+
+Programacion.-
+La programacion son una serie de reglas y ordenes que establecemos a algo, en la programacion se enfoca en darle ordenes a la computadora gracias al uso de codigo.
+
+Lenguaje de Programacion.-
+Son codigos que podemos entender y darle ordenes a una computadora por medio de estos.
+
+Compilador.-
+Es un traductor de codigo a binario para que la computadora pueda entenderlo y analizar los posibles errores existentes.
+
+Ciclo de Desarrollo.-
+Es el proceso que debe tomarse para el desarrollo de un programa de manera efectiva, siguiendo lo siguiente:
+
+	1) Planificacion.- En esta etapa ves lo que requieres, lo que se busca y el como podemos desarrollar 
+
+	2) Analisis.-Una vez con la idea más clara este, debes analizar como va a ser el desarrollo y en que va a conllevar
+
+	3) Diseño.-En este paso plasmas sobre una hoja o en otro programa tu idea para ver si funciona como pensabas o ver de hacer cambios
+
+	4) Codificacion.- En este paso empiezas a codificar segun el diseño y los planes que tengas
+
+	5) Prueba.-Verificas el estado y funcionamiento del codigo y el programa
+
+	6) Mantenimiento.-Una vez el programa este listo, te enfocas en ir mejorando detalles que en su momento no se pudo para irlo evolucionando.
+
+Documento de Especificacion.-
+Es un documento facil de leer para los demas como para nosotros mismos sobre las nececidades de la aplicacion.
+
+QA.-
+Es el proceso en el cual se verifica la calidad del producto o el software.
+
+Testing o Pruebas.-
+Son los procesos que se realizan para conocer si un software cumple con las especificaciones o requisitos y si es capaz de satisfacer al usuario.
+
+Debugging.-
+Es la manera en la que un desarrollador busca errores o problemas dentro de un software para solucinarlos lo mas pronto posible.
+
+Metodologias de Proyectos.-
+Son las formas en las que se realizan proyectos de gran magnitud.
+
+Metodologia en Cascada.-
+Es un metodo que organiza por periodos largos de tiempo para relizar un proyecto de gran magnitud, es tardado y solo tiene un fin.
+
+Metodologias Agiles.-
+Es otro metodo en las que se buscan cumplir metas a corto plazo para desarrollarlo y actualizando constantemente.
+
+Iteracion.-
+Es un proceso de bucle, o sea que se repite varias veces.
